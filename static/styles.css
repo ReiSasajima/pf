@@ -1,0 +1,12 @@
+*{
+  /* ページ周りのmarginを取り除く */
+  margin: 0 0 0 0;
+}
+header{
+  background-color: #262626;
+}
+.header-list{
+  /* list要素を横並び */
+  display: flex;
+
+}
